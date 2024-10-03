@@ -92,10 +92,10 @@ Here are some screenshots of the Movie Recommender Diary app:
 <details>
   <summary>Click to view screenshots</summary>
 
-  - [Home Screen](screenshots/homepage.jpg)
-  - [Add Entry Screen](screenshots/adddiaryentry.jpg)
-  - [Chatbot Interaction](screenshots/chatbot.jpg)
-  - [Edit or Delete Diary](screenshots/editordelete.jpg)
+  ![Home Screen](screenshots/homepage.jpg)
+  ![Add Entry Screen](screenshots/adddiaryentry.jpg)
+  ![Chatbot Interaction](screenshots/chatbot.jpg)
+  ![Edit or Delete Diary](screenshots/editordelete.jpg)
 
 </details>
 
