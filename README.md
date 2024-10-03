@@ -89,19 +89,17 @@ you can steam
 
 Here are some screenshots of the Movie Recommender Diary app:
 
-![Home Screen](screenshots/homepage.jpg)
-*Home Screen with diary entries*
+<details>
+  <summary>Click to view screenshots</summary>
 
-![Add Entry Screen](screenshots/adddiaryentry.jpg)
-*Screen for adding a new diary entry*
+  - [Home Screen](screenshots/homepage.jpg)
+  - [Add Entry Screen](screenshots/adddiaryentry.jpg)
+  - [Chatbot Interaction](screenshots/chatbot.jpg)
+  - [Edit or Delete Diary](screenshots/editordelete.jpg)
 
-![Chatbot Interaction](screenshots/chatbot.jpg)
-*Interaction with the AI-powered chatbot*
+</details>
 
-![Movie Recommendations](screenshots/editordelete.jpg)
-*Edit or delete diary 
 
-(Note: Replace "path/to/" with the actual path to your screenshot images once you've added them to your project repository)
 
 ## Acknowledgments
 
